@@ -1,4 +1,4 @@
-# Chromatap
+# Chromatap - Unity 3D Demo Project
 --------------------------------------------------------
 
 	By Mathias Alexander Ibsen
@@ -9,7 +9,7 @@
 
 --------------------------------------------------------
 
-Thanks for checking out my demo project.
+Thanks for checking out my demo project for Unity3D.
 
 Chromatap is a reaction game designed for mobile.
 In the center of the screen, there's a grey circle.
