@@ -11,6 +11,9 @@
 
 Thanks for checking out my demo project for Unity3D.
 
+Here's a gameplay video of the project:
+https://www.youtube.com/watch?v=qiU1BU9Nub
+
 Chromatap is a reaction game designed for mobile.
 In the center of the screen, there's a grey circle.
 When the player holds down their finger on the screen,
